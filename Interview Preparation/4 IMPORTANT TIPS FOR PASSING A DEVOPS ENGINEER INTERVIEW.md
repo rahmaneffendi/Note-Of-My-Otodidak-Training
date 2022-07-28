@@ -1,4 +1,34 @@
-4 IMPORTANT TIPS FOR PASSING A DEVOPS ENGINEER INTERVIEW
+# DevOps Key Duties and Responsibilities
+
+DevOps is all about facilitating a stronger alignment between IT and the business as a whole. DevOps Engineers work alongside IT developers to ensure effective coordination and integration between business operations, development and testing. DevOps Engineers are usually hired within large, successful organizations to improve culture through the implementation of appropriate IT infrastructures and also using the right tools to achieve the strategic goals of the business.
+
+12 Essential Skills and Qualities Needed to be a DevOps Engineer
+
+Coding, scripting and software security skills;
+
+Cloud and testing capabilities;
+
+Commercial awareness;
+
+An understanding of software security and coding security;
+
+A flexible and adaptable approach to DevOps work;
+
+Teamworking and collaboration skills;
+
+IT infrastructure knowledge and experience;
+
+An unselfish approach to your work;
+
+Exceptional communication and interpersonal skills;
+
+Knowledge and understanding of Major DevOps tools and resources;
+
+Problem-solving and decision-making skills;
+
+A desire to maintain competence through Continuous Professional Development;
+
+# 4 IMPORTANT TIPS FOR PASSING A DEVOPS ENGINEER INTERVIEW
 
 TIP #1 – During your DevOps interview, you will be asked a series of questions that fall broadly into the following three categories:
 
