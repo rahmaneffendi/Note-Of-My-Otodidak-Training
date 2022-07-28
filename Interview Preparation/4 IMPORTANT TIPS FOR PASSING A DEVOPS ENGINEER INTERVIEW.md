@@ -63,3 +63,8 @@ Do you have any exciting or new plans for the organization over the forthcoming 
 TIP #4 – At some stage during the interview you may need to negotiate your DevOps salary. Whilst these discussions can sometimes be uncomfortable, the best way to get the highest DevOps Engineer salary possible, is to research the ‘average salary’ for a DevOps Engineer, and then choose a figure that is slightly above the median salary range for the industry. For example, if the average salary range for a DevOps Engineer is $90,000 to $110,000, tell the interviewer you feel you are worth the top salary of $110,000; however, because you need to prove to them your worth, you are prepared to accept a salary of $102,000.
 
 If you want to significantly increase your chances of passing your interview, make sure yourdownload your copy of Richard McMunn’s 26 DEVOPS INTERVIEW QUESTIONS & ANSWERS guide in DPF format!
+
+Resource : 
+https://passmyinterview.com/devops-engineer-interview/ 
+
+https://www.youtube.com/watch?v=Swh13--YvBM&t=225s
