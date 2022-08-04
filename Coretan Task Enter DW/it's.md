@@ -43,11 +43,11 @@ ternyata disini ada salah di port nya gaes
 
 ![image](https://user-images.githubusercontent.com/99697182/182886072-a99d6a72-bd45-4e03-a18c-1f2167e7efaf.png)
 
-ini pas build ulang pake ms
+## ini pas build ulang pake ms
 
 ![image](https://user-images.githubusercontent.com/99697182/182888760-03a88b0a-6109-4c64-b93e-d2f38a7f7f12.png)
 
-![image](https://user-images.githubusercontent.com/99697182/182887722-edecdd96-3ae2-4f7b-8e96-a298e01d1f76.png)
+![image](https://user-images.githubusercontent.com/99697182/182894011-d15c7781-b8da-4805-8ff5-69093347c124.png)
 
 ini pas build ulang tanpa ms
 
@@ -56,6 +56,11 @@ ini pas build ulang tanpa ms
 ![image](https://user-images.githubusercontent.com/99697182/182889153-0eb2ced0-3f80-4572-9386-57368084f58f.png)
 
 ini lagi mau nge compose up 
+
+tanpa ms
+![image](https://user-images.githubusercontent.com/99697182/182893908-e43a9ccf-c1b0-40d5-903e-efba7ca16a9d.png)
+
+
 
 
 
