@@ -30,3 +30,36 @@ nyoba multi stage
 
 ![image](https://user-images.githubusercontent.com/99697182/182873274-98a07696-f8c0-4037-85c6-b3d0bf69d8c9.png)
 
+gw coba buat jalanin image nya
+
+gw buat docker compose
+
+![image](https://user-images.githubusercontent.com/99697182/182881584-1cbbe773-3a75-4000-a895-29d518c2f5db.png)
+
+
+ternyata disini ada salah di port nya gaes
+
+![image](https://user-images.githubusercontent.com/99697182/182886149-2a9d44a6-22b6-4ee7-abce-27906c98ddc7.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182886072-a99d6a72-bd45-4e03-a18c-1f2167e7efaf.png)
+
+ini pas build ulang pake ms
+
+![image](https://user-images.githubusercontent.com/99697182/182888760-03a88b0a-6109-4c64-b93e-d2f38a7f7f12.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182887722-edecdd96-3ae2-4f7b-8e96-a298e01d1f76.png)
+
+ini pas build ulang tanpa ms
+
+![image](https://user-images.githubusercontent.com/99697182/182888886-d6393ef8-a0ae-44eb-a597-fa3ef31c1d72.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182889153-0eb2ced0-3f80-4572-9386-57368084f58f.png)
+
+ini lagi mau nge compose up 
+
+
+
+
+
+
+
