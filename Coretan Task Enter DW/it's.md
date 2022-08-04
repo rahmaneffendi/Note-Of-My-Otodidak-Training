@@ -34,6 +34,9 @@ gw coba buat jalanin image nya
 
 gw buat docker compose
 
+gw cek 
+
+
 ![image](https://user-images.githubusercontent.com/99697182/182881584-1cbbe773-3a75-4000-a895-29d518c2f5db.png)
 
 
@@ -58,9 +61,29 @@ ini pas build ulang tanpa ms
 ini lagi mau nge compose up 
 
 tanpa ms
+
 ![image](https://user-images.githubusercontent.com/99697182/182893908-e43a9ccf-c1b0-40d5-903e-efba7ca16a9d.png)
 
 
+------------------------------------
+
+# New Step
+
+disini gw perbaikin Dockerfile untuk ulang docker-compose up build
+
+![image](https://user-images.githubusercontent.com/99697182/182973980-ee56f36f-6495-440a-8d27-d6e7e455d708.png)
+
+trus gw cek lagi docker-compose nya
+
+terus gw jalanin compose 
+
+![image](https://user-images.githubusercontent.com/99697182/182974171-f03a37ae-ca3e-4a2e-8e10-5947aa8cafa2.png)
+
+eh ternyata masih ngga bisa
+
+![image](https://user-images.githubusercontent.com/99697182/182974533-0fac1ebc-dfc3-4054-89ab-c3473f012484.png)
+
+---------------------------------------
 
 
 
