@@ -64,6 +64,13 @@ tanpa ms
 
 ![image](https://user-images.githubusercontent.com/99697182/182893908-e43a9ccf-c1b0-40d5-903e-efba7ca16a9d.png)
 
+-----------------------------------
+
+# nyoba rancher
+
+![image](https://user-images.githubusercontent.com/99697182/183107169-663bc514-6a6c-4020-b376-8b283a28dabf.png)
+
+
 
 ------------------------------------
 
