@@ -85,9 +85,19 @@ eh ternyata masih ngga bisa
 
 ---------------------------------------
 
+# Terakhir Step
 
+dan ahirnya bisa gw ganti configurasinya
 
+![image](https://user-images.githubusercontent.com/99697182/182975858-9c891833-20d5-4509-be7f-569e71b6190e.png)
 
+![image](https://user-images.githubusercontent.com/99697182/182975837-e4d03776-75ad-46f8-bbde-f609ccfabcab.png)
+
+`docker-compose up -d`
+
+![image](https://user-images.githubusercontent.com/99697182/182975771-95325318-8cce-4a9b-8a9e-7ea32a3ca4db.png)
+
+------------------------------
 
 
 
