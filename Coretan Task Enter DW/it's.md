@@ -105,7 +105,7 @@ dan ahirnya bisa gw ganti configurasinya
 
 # MS Step
 
-1. Tanpa MS
+1. Tanpa MS try 1
 
 ![image](https://user-images.githubusercontent.com/99697182/182978675-5f9fae4a-cc46-4de3-a660-203767eaab97.png)
 
@@ -113,13 +113,20 @@ dan ahirnya bisa gw ganti configurasinya
 
 ![image](https://user-images.githubusercontent.com/99697182/182978641-b5f21dc6-96c9-453e-b9cf-4e34e5a73319.png)
 
-2. Pake MS
+2. Pake MS try 2
 
 ![image](https://user-images.githubusercontent.com/99697182/182981051-12891eb1-af70-4eb1-b709-57e1aaf70dcf.png)
 
 ![image](https://user-images.githubusercontent.com/99697182/182979020-17c286bc-c84c-4acd-819b-a7ab08ff7fc4.png)
 
 ![image](https://user-images.githubusercontent.com/99697182/182980911-412e8fe9-8cca-43cb-94f4-66fcabf88976.png)
+
+3. Tanpa MS try 3
+
+![image](https://user-images.githubusercontent.com/99697182/182983594-c84db3e7-7cc0-48d7-84b6-df05099e76dc.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182983721-47de0d9a-46de-43b6-bc30-7ea426f1bd33.png)
+
 
 
 # Menjalankan Image
@@ -143,7 +150,7 @@ docker run -d --name pakems -p 3040:3000 -d try1:tanpa-ms
 ![image](https://user-images.githubusercontent.com/99697182/182981171-746e74aa-51f5-4574-aa18-090a9ee4c23e.png)
 
 ```
-docker run -d --name tanpams -p 3050:3000 -d try2:pake-ms
+docker run -d --name pakems -p 3050:3000 -d try2:pake-ms
 ```
 
 ![image](https://user-images.githubusercontent.com/99697182/182981295-6f093453-4867-45c8-b91f-ec4e66a5527e.png)
@@ -152,6 +159,17 @@ docker run -d --name tanpams -p 3050:3000 -d try2:pake-ms
 
 ![image](https://user-images.githubusercontent.com/99697182/182981416-43ec3955-341f-48e4-b42d-688f6686e2b7.png)
 
+3. pake ms
+
+![image](https://user-images.githubusercontent.com/99697182/182984172-008cd223-9acc-4257-a9a5-fedf66b1cc2b.png)
+
+```
+docker run -d --name pakeams -p 3060:3000 -d try2:pake-ms
+```
+
+![image](https://user-images.githubusercontent.com/99697182/182984219-e1b70118-482e-491e-8d68-0fd4b4897609.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182984252-faf23ef8-0f84-4f6e-b4dc-20e5458391ca.png)
 
 
 
