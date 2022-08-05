@@ -85,7 +85,7 @@ eh ternyata masih ngga bisa
 
 ---------------------------------------
 
-# Terakhir Step
+# Last Step Docker-compose Up -d
 
 dan ahirnya bisa gw ganti configurasinya
 
@@ -93,11 +93,27 @@ dan ahirnya bisa gw ganti configurasinya
 
 ![image](https://user-images.githubusercontent.com/99697182/182975837-e4d03776-75ad-46f8-bbde-f609ccfabcab.png)
 
+![image](https://user-images.githubusercontent.com/99697182/182976975-f225cfa9-99db-40bc-91f3-cf6c9a5bf1f3.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182977018-80a7f779-ebcb-4000-b2f3-1e94a1e30f31.png)
+
 `docker-compose up -d`
 
 ![image](https://user-images.githubusercontent.com/99697182/182975771-95325318-8cce-4a9b-8a9e-7ea32a3ca4db.png)
 
 ------------------------------
+
+# MS Step
+
+1. Tanpa MS
+
+![image](https://user-images.githubusercontent.com/99697182/182978675-5f9fae4a-cc46-4de3-a660-203767eaab97.png)
+
+
+![image](https://user-images.githubusercontent.com/99697182/182978641-b5f21dc6-96c9-453e-b9cf-4e34e5a73319.png)
+
+
+![image](https://user-images.githubusercontent.com/99697182/182978363-f447a18a-55c6-489f-8651-e6182d3914fe.png)
 
 
 
