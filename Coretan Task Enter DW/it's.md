@@ -115,10 +115,12 @@ dan ahirnya bisa gw ganti configurasinya
 
 2. Pake MS
 
-![image](https://user-images.githubusercontent.com/99697182/182980911-412e8fe9-8cca-43cb-94f4-66fcabf88976.png)
-
+![image](https://user-images.githubusercontent.com/99697182/182981051-12891eb1-af70-4eb1-b709-57e1aaf70dcf.png)
 
 ![image](https://user-images.githubusercontent.com/99697182/182979020-17c286bc-c84c-4acd-819b-a7ab08ff7fc4.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182980911-412e8fe9-8cca-43cb-94f4-66fcabf88976.png)
+
 
 # Menjalankan Image
 
@@ -129,7 +131,7 @@ https://jagoweb.com/tutorial-docker-indonesia-menjalankan-docker-container
 ![image](https://user-images.githubusercontent.com/99697182/182980152-400dfe0a-89bd-4194-8862-d499bf20d7ad.png)
 
 ```
-docker run -d --name pakems -p 3030:3000 -d try1:tanpa-ms
+docker run -d --name pakems -p 3040:3000 -d try1:tanpa-ms
 ```
 
 ![image](https://user-images.githubusercontent.com/99697182/182979997-70158c1c-4ffa-4cac-89de-f198ae4d7671.png)
@@ -137,6 +139,19 @@ docker run -d --name pakems -p 3030:3000 -d try1:tanpa-ms
 ![image](https://user-images.githubusercontent.com/99697182/182980079-d77eec87-c966-48aa-88b1-ac089e4f8e8b.png)
 
 2.pake ms
+
+![image](https://user-images.githubusercontent.com/99697182/182981171-746e74aa-51f5-4574-aa18-090a9ee4c23e.png)
+
+```
+docker run -d --name tanpams -p 3050:3000 -d try2:pake-ms
+```
+
+![image](https://user-images.githubusercontent.com/99697182/182981295-6f093453-4867-45c8-b91f-ec4e66a5527e.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182981367-4c885c1f-2771-4504-9220-755b34b86785.png)
+
+![image](https://user-images.githubusercontent.com/99697182/182981416-43ec3955-341f-48e4-b42d-688f6686e2b7.png)
+
 
 
 
