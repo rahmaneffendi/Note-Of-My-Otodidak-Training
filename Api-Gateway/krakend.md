@@ -14,6 +14,39 @@ disini gw mau nge run simple app, betul-betul simple ya hehe:
 
 <img width="357" alt="image" src="https://user-images.githubusercontent.com/99697182/189606664-dbd36f36-30de-43f4-ab76-56eb758b16c8.png">
 
+```
+FROM devopsfaith/krakend
+COPY simple2.json /etc/krakend/simple2.json
+```
+
+```
+ {
+    "version": 3,
+    "name": "simpleapi gw",
+    "endpoints": [
+        {
+            "endpoint": "/wtf",
+            "method": "GET",
+            "output_encoding": "no-op",
+            "extra_config": {},
+            "backend": [
+                {
+                    "url_pattern": "/api/v1/ping",
+                    "encoding": "no-op",
+                    "sd": "static",
+                    "method": "GET",
+                    "extra_config": {},
+                    "host": [
+                        "http://115.85.79.246:56565"
+                    ],
+                    "disable_host_sanitize": true
+                }
+            ]
+        }
+    ]
+}
+```
+
 4. kemudian build menjadi image
 
 ```
