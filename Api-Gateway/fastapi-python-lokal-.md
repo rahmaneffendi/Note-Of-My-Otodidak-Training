@@ -1,4 +1,4 @@
-Disini saya pake OS dari Centos 7
+Disini saya pake vm dari vm ware, OS dari Centos 7, 
 
 
 
@@ -176,6 +176,9 @@ terakhir kita bisa cek service nya
 ```
 ss -tulnp
 ```
+
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/99697182/191408398-140b8286-59fe-4894-b0e6-85f408bb8636.png">
+
 
 3. Cek Di Browser 
 
