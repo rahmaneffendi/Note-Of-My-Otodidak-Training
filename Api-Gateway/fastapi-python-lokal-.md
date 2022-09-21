@@ -1,4 +1,4 @@
-Disini saya pake vm dari vm ware, OS dari Centos 7, 
+Disini saya pake vm dari vm ware, OS dari Centos 7 (CentOS-7-x86_64-Minimal-2009.iso), 
 
 
 
