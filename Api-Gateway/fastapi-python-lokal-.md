@@ -1,3 +1,7 @@
+Disini saya pake OS dari Centos 7
+
+
+
 # Step
 
 1. Install pyhton 
@@ -172,5 +176,15 @@ terakhir kita bisa cek service nya
 ```
 ss -tulnp
 ```
+
+3. Cek Di Browser 
+
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/99697182/191408205-230a8838-85ec-4b6d-900e-62fb59b6c0a7.png">
+
+cek juga di postman
+
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/99697182/191408141-6ca936f8-f898-4ef6-8c62-90a6de52c9ea.png">
+
+
 
 
