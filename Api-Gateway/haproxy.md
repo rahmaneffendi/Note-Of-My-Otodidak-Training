@@ -1,3 +1,4 @@
+```
 global
    log /dev/log local0
    log /dev/log local1 notice
@@ -36,3 +37,4 @@ backend http_back
    balance roundrobin
    server unotoken-web-poc-1 10.10.10.237:22222 check
    server unotoken-web-poc-2 10.10.10.237:22223 check
+```
